@@ -1,0 +1,5 @@
+MST Edges: (0, 7), (2, 3), (1, 7), (0, 2), (5, 7), (4, 5), (6, 2), 
+Total Weight: 1.81
+
+Execution Time: 0.0000 seconds
+Memory Consumption: 512 bytes
